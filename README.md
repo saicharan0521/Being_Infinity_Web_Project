@@ -1,3 +1,3 @@
 # Being_Infinity_Web_Project
 
-Practising Web Technologies
+<h1>Practising Web Technologies</h1>
