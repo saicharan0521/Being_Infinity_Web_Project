@@ -32,6 +32,11 @@ h1 {
     height: 380px;
 }
 
+#jane-img {
+    width: 340px;
+    height: 380px;
+}
+
 .card {
     display: flex;
     flex-direction: column;
@@ -54,9 +59,11 @@ button {
     padding: 5px 29px 5px 29px;
     margin-left: 10px;
     box-shadow: rgba(50, 50, 105, 0.15) 0px 2px 5px 0px, rgba(0, 0, 0, 0.05) 0px 1px 1px 0px;
+    transition: 0.2s ease-in;
+    animation;
 }
 
 button:hover {
     background-color: black;
-
+    color: white;
 }
