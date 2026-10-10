@@ -75,4 +75,5 @@ button:hover {
     height: 100vh;
     background-position: center;
     background-size: cover;
+    /* object-fit: cover; */
 }
