@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    color: blue;
+}
+
+.nav-bar {
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    background-color: aqua;
+    padding: 15px;
+    text-align: center;
+}
+
+.nav-bar a {
+    padding: 15px;
+    text-decoration: none;
+    color: rgb(6, 6, 6);
+}
+
+.nav-bar a:hover {
+    background-color: cornflowerblue;
+    text-decoration: underline;
+    color: white;
+}
